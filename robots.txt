@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zohteebido.koinbot.org/sitemap.xml
